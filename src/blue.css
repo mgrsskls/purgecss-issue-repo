@@ -1,0 +1,5 @@
+@import "../node_modules/@factorial/fsk/css/variables.css";
+
+html {
+  --color-blue: var(--fsk-color-cerulean);
+}
